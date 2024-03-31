@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "time-track"
 version = "0.0.0"
 authors = [{ name = "Mahdi Mir", email = "imahdimir@gmail.com" }]
-description = "Automate my Time Track Google Sheet"
+description = "Automate Time Track Google Sheet"
 readme = "README.md"
 dependencies = [
     "pandas",
