@@ -10,4 +10,9 @@ description = "Automate Time Track Google Sheet"
 readme = "README.md"
 dependencies = [
     "pandas",
+    "google-api-python-client",
+    "google-auth-httplib2",
+    "google-auth-oauthlib",
+    "gspread",
+    "mtok",
 ]
